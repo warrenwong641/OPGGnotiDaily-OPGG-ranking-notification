@@ -4,4 +4,4 @@ This repo is a simple Windows app that scrapes OPGG's top 10 OP champions. The c
 
 ### Installation
 
-Download the installer to install.
+Download the exe file to install.
